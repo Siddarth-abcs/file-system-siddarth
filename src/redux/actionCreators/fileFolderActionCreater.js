@@ -1,6 +1,5 @@
 import * as types from "../actionsTypes/filefolderactiontype";
 import fire from "../../config/firebase";
-
 // action
 // 1
 const addFolder = (payload) => ({
